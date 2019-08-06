@@ -1,6 +1,6 @@
 # Splunk Vagrant
 
-This is a super quick and barebones way to get up an running with Splunk.
+This is a super quick and barebones way to get up and running with Splunk.
 
 This is handy for an impromptu demo or maybe for a home lab.
 
